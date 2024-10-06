@@ -1,5 +1,11 @@
-# AI-Medical-Assistant
+# AI 의료 진단 챗봇 (AI-Medical-Assistant)
 
+## 개요
+> **아이펠 mini Aifflethon 프로젝트** <br/> **프로젝트 기간: 2024.08.02 ~ 2024.08.08** <br/>
+> **발표자료 보러가기** :
+> - [발표자료](./미니 아이펠톤.pdf)<br>
+
+## Setup
 ```bash
 # Docker 이미지 빌드
 docker build -t streamlit-app .
@@ -8,7 +14,7 @@ docker build -t streamlit-app .
 docker run -p 8501:8501 streamlit-app
 ```
 
-## 사용 환경
+## 사용 기술
 - streamlit
 - fastapi
 - huggingface
