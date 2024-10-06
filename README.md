@@ -8,9 +8,28 @@ docker build -t streamlit-app .
 docker run -p 8501:8501 streamlit-app
 ```
 
+## 사용 환경
+- streamlit
+- fastapi
+- huggingface
+- ollama
+
+## Datasets
+![Screenshot 2024-10-06 at 9 56 29 PM](https://github.com/user-attachments/assets/934bcf8c-6a0c-4ee1-bc68-0ae661e8d735)
+
+## 사용 모델
+(LLM) heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF
+(Embedding) jhgan/ko-sroberta-multitask
+
+
+## Process
+![Screenshot 2024-10-06 at 9 58 42 PM](https://github.com/user-attachments/assets/a4069bec-777b-4f68-9b33-abc1790fa30f)
 
 ## 시연영상
 - 링크 : https://youtu.be/PKL_7jF4HpA?si=D1xLo2BRaZx47mph
+
+https://github.com/user-attachments/assets/d5058c8f-529a-4b95-84fb-3e507c4b9e20
+
 
 ### 질병예측페이지
 ![질병예측페이지](https://github.com/user-attachments/assets/3e51ba4c-0402-4f6c-b546-20513a36a841)
