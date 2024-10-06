@@ -4,23 +4,13 @@
 > **아이펠 mini Aifflethon 프로젝트** <br/> **프로젝트 기간: 2024.08.02 ~ 2024.08.08** <br/>
 > [**발표자료 보러가기**](https://github.com/seongyeon1/AI-Medical-Assistant/blob/main/%E1%84%86%E1%85%B5%E1%84%82%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB.pdf)<br>
 
-## Setup
-```bash
-# Docker 이미지 빌드
-docker build -t streamlit-app .
-
-# Docker 컨테이너 실행
-docker run -p 8501:8501 streamlit-app
-```
 
 ## 사용 기술
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### Front-end
-- ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-### AI
-- ![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-- ![huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-- ![ollama](https://img.shields.io/badge/ollama-#000000?style=for-the-badge&logo=Ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![ollama](https://img.shields.io/badge/Ollama-#000000?style=for-the-badge&logo=Ollama&logoColor=white)
 
 ## Datasets
 ![Screenshot 2024-10-06 at 9 56 29 PM](https://github.com/user-attachments/assets/934bcf8c-6a0c-4ee1-bc68-0ae661e8d735)
@@ -29,6 +19,14 @@ docker run -p 8501:8501 streamlit-app
 > (`LLM`) heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF
 > (`Embedding`) jhgan/ko-sroberta-multitask
 
+## Setup
+```bash
+# Docker 이미지 빌드
+docker build -t streamlit-app .
+
+# Docker 컨테이너 실행
+docker run -p 8501:8501 streamlit-app
+```
 
 ## Process
 ![Screenshot 2024-10-06 at 9 58 42 PM](https://github.com/user-attachments/assets/a4069bec-777b-4f68-9b33-abc1790fa30f)
