@@ -2,8 +2,7 @@
 
 ## 개요
 > **아이펠 mini Aifflethon 프로젝트** <br/> **프로젝트 기간: 2024.08.02 ~ 2024.08.08** <br/>
-> **발표자료 보러가기** :
-> - [발표자료](https://github.com/seongyeon1/AI-Medical-Assistant/blob/main/%E1%84%86%E1%85%B5%E1%84%82%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB.pdf)<br>
+> [**발표자료 보러가기**](https://github.com/seongyeon1/AI-Medical-Assistant/blob/main/%E1%84%86%E1%85%B5%E1%84%82%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB.pdf)<br>
 
 ## Setup
 ```bash
