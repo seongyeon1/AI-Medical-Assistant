@@ -15,10 +15,12 @@ docker run -p 8501:8501 streamlit-app
 
 ## 사용 기술
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![streamlit](https://img.shields.io/badge/Streamlit-#FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### Front-end
+- ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+### AI
 - ![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-- ![huggingface](https://img.shields.io/badge/huggingface-#FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
-- ![ollama](https://img.shields.io/badge/ollama-#000000?style=for-the-badge&logo=ollama&logoColor=white)
+- ![huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+- ![ollama](https://img.shields.io/badge/ollama-#000000?style=for-the-badge&logo=Ollama&logoColor=white)
 
 ## Datasets
 ![Screenshot 2024-10-06 at 9 56 29 PM](https://github.com/user-attachments/assets/934bcf8c-6a0c-4ee1-bc68-0ae661e8d735)
