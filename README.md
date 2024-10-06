@@ -16,8 +16,8 @@
 ![Screenshot 2024-10-06 at 9 56 29 PM](https://github.com/user-attachments/assets/934bcf8c-6a0c-4ee1-bc68-0ae661e8d735)
 
 ## 사용 모델
-> (`LLM`) heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF
-> (`Embedding`) jhgan/ko-sroberta-multitask
+> - (`LLM`) heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF
+> - (`Embedding`) jhgan/ko-sroberta-multitask
 
 ## Setup
 ```bash
