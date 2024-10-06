@@ -10,7 +10,7 @@
 ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![ollama](https://img.shields.io/badge/Ollama-#000000?style=for-the-badge&logo=Ollama&logoColor=white)
+![ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ## Datasets
 ![Screenshot 2024-10-06 at 9 56 29 PM](https://github.com/user-attachments/assets/934bcf8c-6a0c-4ee1-bc68-0ae661e8d735)
